@@ -1,4 +1,4 @@
-।
+
 
 ---
 
@@ -52,7 +52,7 @@ social-media-extremism-detector-app/
 
 ## 🚀 Live Demo
 
-Try the app online: [Live Demo](https://socialmediaexremismdetector.streamlit.app)
+Try the app online: [Live Demo](https://socialmediaexremismdetector.streamlit.app/)
 
 ---
 
@@ -86,7 +86,7 @@ streamlit run app.py
 
 ## 📹 YouTube Video
 
-Watch the full project walkthrough: [YouTube Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+Watch the full project walkthrough: [YouTube Demo](https://youtu.be/zpnvUBig97o?si=E8c5gov2Fxa3oHju)
 
 ---
 
